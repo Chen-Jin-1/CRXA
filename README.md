@@ -10,4 +10,5 @@
 [Go](http://c.chen-jin.cloudns.be)
 - [ ] crxa.78912345.xyz
 - [x] c.chen-jin.cloudns.be
+- [ ] c.chen-jin.us.kg
 - [ ] crxa.sourceforge.net
