@@ -13,4 +13,4 @@
 - [x] c.chen-jin.cloudns.be （重定向，访问可能遇到问题）
 - [x] c.chen-jin.us.kg （重定向）
 - [x] crxa.us.kg
-- [ ] crxa.sourceforge.net （不知道怎么用它建设网站1）
+- [ ] crxa.sourceforge.net （不知道怎么用它建设网站）
