@@ -11,6 +11,6 @@
 [Go](http://crxa.us.kg)
 - [ ] crxa.78912345.xyz （域名废了）
 - [x] c.chen-jin.cloudns.be （重定向，访问可能遇到问题）
-- [x] c.chen-jin.us.kg （重定向）
+- [x] c.chen-jin.us.kg （重定向，感觉网址有点长）
 - [x] crxa.us.kg
 - [ ] crxa.sourceforge.net （不知道怎么用它建设网站）
