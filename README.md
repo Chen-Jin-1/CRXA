@@ -1,8 +1,7 @@
 <!--![CRXA-IMAGE](https://crxa.78912345.xyz/favicon.ico)-->
 <!--![CRXA-IMAGE-2](http://c.chen-jin.cloudns.be/favicon.ico)-->
-![CRXA-IMAGE-3](https://crxa.us.kg/CRXA-v2.png)
+![CRXA-IMAGE-3](https://crxa.us.kg/favicon.ico)
 # CRXA - 一个跑酷游戏
-![Chen-Jin|CRXA](https://img.shields.io/badge/Chen--Jin-CRXA-blue)
 <br>
 [![](https://api.star-history.com/svg?repos=Chen-Jin-1/CRXA&type=Date)](https://star-history.com/#Chen-Jin-1/CRXA&Date)
 <br>
