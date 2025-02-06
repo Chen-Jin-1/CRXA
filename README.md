@@ -3,9 +3,11 @@
 ![CRXA-IMAGE-3](https://crxa.us.kg/favicon.ico)
 # CRXA - 一个跑酷游戏
 <br>
+
 ![Star 历史](https://api.star-history.com/svg?repos=Chen-Jin-1/CRXA&type=Date)
 <br>
-<!--~~[立即访问](https://crxa.78912345.xyz/)~~-->
+<!--[立即访问](https://crxa.78912345.xyz/)-->
+
 [Go](http://crxa.us.kg)
 - [ ] crxa.78912345.xyz （域名废了）
 - [x] c.chen-jin.cloudns.be （重定向，访问可能遇到问题）
