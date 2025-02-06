@@ -5,7 +5,6 @@
 <br>
 ![Star 历史](https://api.star-history.com/svg?repos=Chen-Jin-1/CRXA&type=Date)
 <br>
-<br>
 <!--~~[立即访问](https://crxa.78912345.xyz/)~~-->
 [Go](http://crxa.us.kg)
 - [ ] crxa.78912345.xyz （域名废了）
