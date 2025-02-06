@@ -3,7 +3,7 @@
 ![CRXA-IMAGE-3](https://crxa.us.kg/favicon.ico)
 # CRXA - 一个跑酷游戏
 <br>
-[![](https://api.star-history.com/svg?repos=Chen-Jin-1/CRXA&type=Date)](https://star-history.com/#Chen-Jin-1/CRXA&Date)
+![Star 历史](https://api.star-history.com/svg?repos=Chen-Jin-1/CRXA&type=Date)
 <br>
 <br>
 <!--~~[立即访问](https://crxa.78912345.xyz/)~~-->
